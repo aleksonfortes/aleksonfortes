@@ -1,4 +1,4 @@
-## Alekson Fortes — Senior QA Automation Engineer
+## Alekson Fortes — Senior Quality Engineer
 
 Building automation frameworks and quality systems for SaaS, gaming, healthcare, and fintech.
 
