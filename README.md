@@ -9,7 +9,6 @@ US Permanent Resident (Green Card). No sponsorship required.
 
 **Featured work:**
 - [TestingMaps](https://testingmaps.com) — open-source QA mind mapping tool
-- [playwright-automation-example](https://github.com/aleksonfortes/playwright-automation-example) — framework architecture demo
-- [Karma Online](https://github.com/aleksonfortes/karma-online) — multiplayer browser game
+- [zen-analyzer](https://github.com/aleksonfortes/zen-analyzer) — Playwright + Python automation framework with full testing pyramid
 
 aleksonfortes.com · linkedin.com/in/alekson
