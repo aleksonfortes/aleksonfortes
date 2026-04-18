@@ -11,4 +11,4 @@ US Permanent Resident (Green Card). No sponsorship required.
 - [TestingMaps](https://testingmaps.com) — open-source QA mind mapping tool
 - [zen-analyzer](https://github.com/aleksonfortes/zen-analyzer) — Playwright + Python automation framework with full testing pyramid
 
-aleksonfortes.com · linkedin.com/in/alekson
+[aleksonfortes.com](https://aleksonfortes.com) · [linkedin.com/in/alekson](https://linkedin.com/in/alekson)
